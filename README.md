@@ -7,6 +7,7 @@ This was made in JavaScript to create a random password containing special chara
 
 LINKS:
 https://github.com/leslie310/Password-Generator-Challenge
+https://leslie310.github.io/Password-Generator-Challenge/
 
 
 
