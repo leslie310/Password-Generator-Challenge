@@ -1,9 +1,14 @@
 PASSWORD-GENERATOR
 
+
 SUMMARY:
 This was made in JavaScript to create a random password containg special characters,numbers,uppercase and lowercase letters.
 
+
 LINKS:
+https://github.com/leslie310/Password-Generator-Challenge
+
+
 
 IMAGES:
 ![PASSWORD](https://user-images.githubusercontent.com/107505768/176056247-740c5510-9515-4dc4-b83a-47c4db164428.PNG)
