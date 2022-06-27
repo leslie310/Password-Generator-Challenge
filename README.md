@@ -2,7 +2,7 @@ PASSWORD-GENERATOR
 
 
 SUMMARY:
-This was made in JavaScript to create a random password containg special characters,numbers,uppercase and lowercase letters.
+This was made in JavaScript to create a random password containing special characters,numbers,uppercase and lowercase letters.
 
 
 LINKS:
